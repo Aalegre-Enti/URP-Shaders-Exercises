@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: E1.5
-  m_Shader: {fileID: -6465566751694194690, guid: a523d6e86bbd6d546abadb8ac83b3e79,
+  m_Shader: {fileID: -6465566751694194690, guid: 036ee67ff1d491c479c9123c93884c9d,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -61,9 +61,8 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Speed: 1
     - _T: 1
     m_Colors:
-    - _Color_A: {r: 1, g: 0, b: 0, a: 1}
-    - _Color_B: {r: 0, g: 0.9796138, b: 1, a: 1}
+    - _Color_A: {r: 0, g: 1, b: 0.9841738, a: 1}
+    - _Color_B: {r: 0.18451095, g: 1, b: 0, a: 1}
   m_BuildTextureStacks: []
