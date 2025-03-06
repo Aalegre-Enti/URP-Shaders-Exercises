@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: E2.6
+  m_Name: E2.6 G
   m_Shader: {fileID: -6465566751694194690, guid: c31cd1db34185e749a62ea835208d978,
     type: 3}
   m_Parent: {fileID: 0}
@@ -57,5 +57,5 @@ Material:
     - _Scale: 10
     - _Speed: 0.05
     m_Colors:
-    - _Color: {r: 0, g: 0.5261824, b: 1, a: 0}
+    - _Color: {r: 0, g: 1, b: 0.04290104, a: 0}
   m_BuildTextureStacks: []
